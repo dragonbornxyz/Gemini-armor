@@ -1,8 +1,10 @@
 # 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
 # File Created: 27.01.2014 18:19:11
 
+mtllib armleft.mtl
+
 #
-# object Armleft2
+# object Armleft
 #
 
 v  0.0338 0.7018 -0.1966
@@ -1141,3 +1143,4 @@ f 61/63/189 155/63/189 153/65/189 63/65/189
 f 63/65/190 153/65/190 152/66/190 64/66/190 
 f 64/66/191 152/66/191 151/49/191 49/49/191 
 # 20 polygons - 278 triangles
+
